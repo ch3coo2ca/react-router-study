@@ -12,6 +12,9 @@ export const Nav = () => {
       <div>
         <Link to="/a">A </Link>
       </div>
+      <div>
+        <Link to="/tab">tab </Link>
+      </div>
     </div>
   );
 };
